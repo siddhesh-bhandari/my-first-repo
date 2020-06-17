@@ -1,28 +1,22 @@
-# This is a large heading
+#Siddhesh Bhandari
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Nashik, in the state of Maharashtra
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite footballers are:
 
-Here is `some code` in the middle of a sentence.
+-*Robert Lewandowski*
+-*Manuel Neuer*
+-*Joshua Kimmich*
 
-```
-This is
-a block
-of code
-```
+## Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1.Carbs
+2.Fat
+3.Protein
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
